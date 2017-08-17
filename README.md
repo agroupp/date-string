@@ -1,6 +1,8 @@
 # date-string
 Formats date according to RFC2822
 
+[![Build Status](https://travis-ci.org/agroupp/date-string.svg?branch=master)](https://travis-ci.org/agroupp/date-string)
+
 This function is needed to get correct Date string used in email Date header.
 
 ## Installation
