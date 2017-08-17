@@ -1,0 +1,35 @@
+{
+  "name": "date-string",
+  "version": "1.0.0",
+  "description": "Formats date according to RFC2822",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agroupp/date-string.git"
+  },
+  "keywords": [
+    "date",
+    "dateString",
+    "rfc2822",
+    "email",
+    "header",
+    "date"
+  ],
+  "author": "Arthur Groupp <arth.groupp@gmail.com> (http://groupp.org)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agroupp/date-string/issues"
+  },
+  "homepage": "https://github.com/agroupp/date-string#readme",
+  "devDependencies": {
+    "chai": "^4.1.1",
+    "istanbul": "^0.4.5",
+    "mocha": "^3.5.0"
+  }
+}
